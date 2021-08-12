@@ -10,7 +10,7 @@ Choose an option:
 
 - Download as .ZIP then extract/unzip.
   - Rename the folder to your project's name.
-- Clone the repo — `git clone https://github.com/joshxfi/vret-boilerplate.git <project-name>`
+- Clone the repo — `git clone https://github.com/zomeru/vrst-boilerplate.git <project-name>`
   - Replace the `<project-name>` with the title of your project.
 
 ## Quick Start
